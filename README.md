@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project in the Odin Project. Its a website that has 3 different dishes and their recipes. It is very simple and I used what I learned from the lesson, plus some extra things that I got from watching other people's website. 
