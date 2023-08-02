@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(226, 160, 84);
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+#images{
+    width:auto; 
+    height:450px;
+    
+}
+
+button{
+    color:white;
+    background-color: rgb(69, 65, 61);
+}
