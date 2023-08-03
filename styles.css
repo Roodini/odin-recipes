@@ -13,3 +13,29 @@ button{
     color:white;
     background-color: rgb(69, 65, 61);
 }
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-header{
+    text-align: center;
+    color: rgb(109, 95, 21);
+}
+
+#recipe-list{
+    text-align: center;
+}
+
+.ul-index{
+    display: inline-block;
+    text-align: left;
+}
+
+#index-button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
